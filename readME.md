@@ -1,4 +1,4 @@
-Project by <a href="https://github.com/ironnicko">Nikhil I</a> and Anand Thakkar.
+Project by <a href="https://github.com/ironnicko">Nikhil I</a> and <a href="https://github.com/as0957">Anand Thakkar</a>.
 
 <h1> Ceasar's Cipher </h1>
 
